@@ -1,0 +1,7 @@
+echo "# Money_Withdraw" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dkg2395/Money_Withdraw.git
+git push -u origin main
