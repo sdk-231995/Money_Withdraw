@@ -46,21 +46,6 @@ Chapter: 22 Backtracking
 Chapter: 23 Dynamic programming
 
 duration ---> 2 to 3 months
-timings ----> 7pm to 8pm [mon-fri]
-fees -------> Rs. 999/-
-
-7207212427
-9246212143
-
-core java batch is running at 7am morning ---> 6 class completed ---> Rs. 5000/-
-
-Logic Based Programming -----> 8PM ---> 20/350 ---> C/Java/Python --> Rs. 2000/-
-
-https://us02web.zoom.us/meeting/register/tZwkdeGtqz0iHNL6acB93gTQKRrg4IRpLNcs
-
-https://www.youtube.com/watch?v=OG3gJxp6y_A&list=PLd3UqWTnYXOl1Qwbsqa3gDJieL3o9zmPP
-
-https://www.youtube.com/watch?v=1GjEBFdmpqA&t=9s
 
 
 Music Players ----> Jio Savan, Spotify, Prime Music etc
@@ -72,8 +57,6 @@ data ---> .mp3 songs
 searching, sorting, queue
 
 Linked List ----> Music Players
-
-Spam email detection ---> rxxxxxxxxx@gmail.com
 ====================
 
 10 Unknown companies ---> 10 spam per day
@@ -211,18 +194,6 @@ Priority Queue
 Q ---> V1(2M), V2(5M), V3(1M), V4(6M), V5(3M)
 
 Sorting ---> V4, V2, V5, V1, V3
-
-durgasoftonlinetraining@gmail.com
-Bank name: ICICI
-Account Holder's Name: DURGASOFT TRAINING SERVICES PVT LTD
-Type : Current Account
-Account No: 236305500267
-IFSC Code: ICIC0002363
-Hyderabad - 500038
-Telangana
-
-GOOGLE PAY/PHONE PAY NUMBER
-9297972727
 
 
 LBP vs DSAJ
@@ -20850,6 +20821,7 @@ syllabus:
 18. greedy algorithms
 19. backtracking applications
 20. complexities
+
 
 
 
